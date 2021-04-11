@@ -1,4 +1,4 @@
-# this is the face unlock utillity that works withh most android phones 
+this is the face unlock utillity that works with most android phones 
 orchid os roms provide both with and without unlock security .
 In orchid projects google based roms unlock is present 
 withing the secure range this is emoved to add another layer of security
