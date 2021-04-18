@@ -3,7 +3,7 @@
 - Repo type **face unlock utility**
 
 - This utility is Based on **external_motorola_faceunlock**
-- thanks to: [jhenrique09]https://forum.xda-developers.com/m/jhenrique09.6519039/
+- thanks to: (jhenrique09)https://forum.xda-developers.com/m/jhenrique09.6519039/
 
 - this is the face unlock utillity that works with most android phones 
 orchid os roms provide both with and without unlock security. In google based roms unlock is present 
